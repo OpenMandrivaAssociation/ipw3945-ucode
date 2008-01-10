@@ -1,13 +1,13 @@
 %define name ipw3945-ucode
-%define version 1.13
-%define mdkrelease 2
+%define version 1.14.2
+%define mdkrelease 1
 %define release %mkrel %{mdkrelease}
 
 Summary:	Intel PRO/Wireless 3945 (IPW3945ABG) microcode.
 Name:		%{name}
 Version:	%{version}
 Release:	%{release}
-Source0:	%{name}-%{version}.tar.bz2
+Source0:	%{name}-%{version}.tgz
 License:	proprietary
 Url:		http://sourceforge.net/projects/ipw3945
 Group:		System/Kernel and hardware
