@@ -3,7 +3,7 @@
 %define mdkrelease 1
 %define release %mkrel %{mdkrelease}
 
-Summary:	Intel PRO/Wireless 3945 (IPW3945ABG) microcode.
+Summary:	Intel PRO/Wireless 3945 (IPW3945ABG) microcode
 Name:		%{name}
 Version:	%{version}
 Release:	%{release}
