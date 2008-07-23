@@ -1,6 +1,6 @@
 %define name ipw3945-ucode
 %define version 1.14.2
-%define mdkrelease 1
+%define mdkrelease 2
 %define release %mkrel %{mdkrelease}
 
 Summary:	Intel PRO/Wireless 3945 (IPW3945ABG) microcode
